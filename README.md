@@ -1,5 +1,5 @@
 # map-highlight
-Please hover on india
+Please hover on india or canada or usa
 
 
 
